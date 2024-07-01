@@ -79,4 +79,4 @@ Faça um texto para ebook, com foco em CSS e HTML, listando os seletores com exe
 ## Chatgpt:
 
 Gerado o Ebook que esta na pasta de saida em pdf e ppt
-> Sempre deixe um Titulo sugestivo por Tópico## 🛠️ Comandos usados no ChatGPT para gerar Conteúdo Ebook
+
