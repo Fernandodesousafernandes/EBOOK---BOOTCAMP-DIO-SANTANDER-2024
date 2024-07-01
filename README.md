@@ -1,4 +1,4 @@
-# Projeto Podcast Gerado por IAs
+# Projeto Bootcamp DIO Santander Gerado por IAs
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -64,4 +64,19 @@ Utilize os prompts dentro da pasta ` src/prompts ` para criar um podcast de mane
 - "Desvendando o Universo do CSS e HTML: Guia Prático e Fácil para Iniciantes"
 
 
-## 🛠️ Comandos usados no ChatGPT para gerar Conteúdo Ebook
+## Comando
+
+Faça um texto para ebook, com foco em CSS e HTML, listando os seletores com exemplos de código.
+
+{REGRAS}
+> Crie uma Introdução
+> Crie um sumário
+> Explique sempre de maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos de codigos
+
+
+## Chatgpt:
+
+Gerado o Ebook que esta na pasta de saida em pdf e ppt
+> Sempre deixe um Titulo sugestivo por Tópico## 🛠️ Comandos usados no ChatGPT para gerar Conteúdo Ebook
