@@ -69,11 +69,11 @@ Utilize os prompts dentro da pasta ` src/prompts ` para criar um podcast de mane
 Faça um texto para ebook, com foco em CSS e HTML, listando os seletores com exemplos de código.
 
 {REGRAS}
-> Crie uma Introdução
-> Crie um sumário
-> Explique sempre de maneira simples
-> Deixe o texto enxuto
-> Sempre traga exemplos de codigos
+- Crie uma Introdução
+- Crie um sumário
+- Explique sempre de maneira simples
+- Deixe o texto enxuto
+- Sempre traga exemplos de codigos
 
 
 ## Chatgpt:
